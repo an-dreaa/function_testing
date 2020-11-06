@@ -1,0 +1,5 @@
+from function_foo import foo 
+
+def test_foo():
+    assert foo(2)==3
+    
